@@ -1,3 +1,16 @@
+I followed this project from the youtuber "Web Dev Simplified"
+
+This project reinforced my React JS, HTML, and CSS skills.
+
+What I learned/reinforced from this project
+- State management with useReducer
+- Action-driven updates
+- Component modularity/reusability
+- Event handling
+- GUI design
+- Debugging and testing
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
